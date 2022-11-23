@@ -1,0 +1,12 @@
+2022-11-23 16:52:50.043 +01:00 [INF] User profile is available. Using 'C:\Users\jeanbaptiste.castill\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-23 16:52:50.718 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-23 16:52:50.718 +01:00 [INF] Hosting environment: Development
+2022-11-23 16:52:50.718 +01:00 [INF] Content root path: C:\Repos\exercises-security-workshop\6-API-Authorization\start\WebApi
+2022-11-23 16:52:50.788 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44342/index.html - -
+2022-11-23 16:52:51.532 +01:00 [INF] Sending file. Request path: '/index.html'. Physical path: 'C:\Repos\exercises-security-workshop\6-API-Authorization\start\WebApi\wwwroot\index.html'
+2022-11-23 16:52:51.627 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44342/index.html - - - 200 - text/html 838.5064ms
+2022-11-23 16:52:51.665 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44342/_framework/aspnetcore-browser-refresh.js - -
+2022-11-23 16:52:51.676 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44342/_framework/aspnetcore-browser-refresh.js - - - 200 11940 application/javascript;+charset=utf-8 10.0370ms
+2022-11-23 16:52:52.948 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44342/favicon.ico - -
+2022-11-23 16:52:52.998 +01:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Repos\exercises-security-workshop\6-API-Authorization\start\WebApi\wwwroot\favicon.ico'
+2022-11-23 16:52:52.998 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44342/favicon.ico - - - 200 1859 image/x-icon 50.2644ms

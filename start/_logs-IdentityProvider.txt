@@ -1,0 +1,10 @@
+2022-11-23 16:54:26.659 +01:00 [INF] User profile is available. Using 'C:\Users\jeanbaptiste.castill\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-23 16:54:27.133 +01:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2022-11-23 16:54:27.134 +01:00 [INF] Quartz Scheduler created
+2022-11-23 16:54:27.134 +01:00 [INF] JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory
+2022-11-23 16:54:27.135 +01:00 [INF] RAMJobStore initialized.
+2022-11-23 16:54:27.136 +01:00 [INF] Quartz Scheduler 3.5.0.0 - 'QuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2022-11-23 16:54:27.137 +01:00 [INF] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2022-11-23 16:54:27.138 +01:00 [INF] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2022-11-23 16:54:27.183 +01:00 [INF] Adding 1 jobs, 1 triggers.
+2022-11-23 16:54:27.188 +01:00 [INF] Adding job: OpenIddict.Quartz.OpenIddictQuartzJob

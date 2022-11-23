@@ -1,0 +1,8 @@
+2022-11-23 16:54:25.018 +01:00 [INF] User profile is available. Using 'C:\Users\jeanbaptiste.castill\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-23 16:54:25.921 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-23 16:54:25.921 +01:00 [INF] Hosting environment: Development
+2022-11-23 16:54:25.921 +01:00 [INF] Content root path: C:\Repos\exercises-security-workshop\6-API-Authorization\start\RazorPageOidcClient
+2022-11-23 16:54:26.072 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44360/ - -
+2022-11-23 16:54:26.569 +01:00 [INF] Cookies was not authenticated. Failure message: Unprotect ticket failed
+2022-11-23 16:54:26.583 +01:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
